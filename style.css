@@ -9,6 +9,8 @@ header {
     margin-bottom: 10px;
     background: #ebebeb;
     text-align: center;
+    font: arial;
+    color: #777;
 }
 
 nav {
@@ -16,6 +18,8 @@ nav {
     margin-bottom: 20px;
     background: #ebebeb;
     text-align: center;
+    font: arial;
+    color: #777;
 }
 
 #left {
@@ -38,12 +42,16 @@ article {
     margin-bottom: 20px;
     background: #ebebeb;
     text-align: center;
+    font: arial;
+    color: #777;
 }
 
 #div2{
     margin-bottom: 20px;
     background: #777;
     text-align: center;
+    font: arial;
+    color:#ebebeb;
 }
 
 #div3 {
@@ -53,6 +61,8 @@ article {
     background: #ebebeb;
     text-align: center;
     overflow: none;
+    font: arial;
+    color: #777;
 }
 
 #div4 {
@@ -61,6 +71,8 @@ article {
     background: #ebebeb;
     text-align: center;
     overflow: none;
+    font: arial;
+    color: #777;
 }
 #right {
     margin-bottom: 20px;
@@ -71,6 +83,8 @@ article {
     margin-bottom: 20px;
     height: 244px;
     margin-bottom: 20px;
+    font: arial;
+    color: #777;
   }
 
   .clearfix::after {
@@ -84,4 +98,6 @@ footer {
     color: #333;
     background: #ebebeb;
     text-align: center;
+    font: arial;
+    color: #777;
 }
